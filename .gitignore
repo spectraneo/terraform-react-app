@@ -28,5 +28,8 @@ dist-ssr
 *.tfstate
 *.tfstate.*
 .terraform/
+terraform.tfvars
+*.tfplan
+.terraform.lock.hcl
 .terraform.lock.hcl
 crash.log
